@@ -3,5 +3,5 @@ The project grabs the latitude and longitude of geolocation as well as other pro
 
 <h2> Take Note </h2>
 <p> Run a secure origin on your browser </p>
-<p> Since we cannot fake speed or heading, we would need an ios simulator as we need some real data to test it. </p>
+<p> Since we cannot fake speed or heading, the project would need like an ios simulator or equivalent as we need some real data to test it. </p>
 
